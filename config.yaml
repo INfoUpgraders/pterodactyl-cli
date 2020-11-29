@@ -1,0 +1,4 @@
+# ptero config
+
+ptero_dir_name: "pterodactyl"
+daemon_name: "docker"
